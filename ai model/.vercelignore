@@ -1,5 +1,4 @@
-*.csv
-*.ipynb
-/data/
-/training_scripts/
-/notebooks/
+# Ignore everything except models and app
+!.vercelignore
+!models/**
+!app/**
