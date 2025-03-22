@@ -1,0 +1,5 @@
+*.csv
+*.ipynb
+/data/
+/training_scripts/
+/notebooks/
